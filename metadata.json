@@ -1,0 +1,6 @@
+{
+  "name": "DAJECI — Zapatillas Ecológicas en Trujillo",
+  "description": "Landing page oficial de DAJECI en Trujillo, Perú. Zapatillas ecológicas de economía circular con atención personalizada y pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
